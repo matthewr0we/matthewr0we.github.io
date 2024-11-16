@@ -89,9 +89,43 @@ Bowman, D.C. and Roe-Crines, A.S. (2023). The End of the Rhetorical Line? The �
 Frackowiak, M., Pascale Sophie Russell, Rusconi, P., Fasoli, F. and Smadar Cohen‐Chen (2023). Political orientation, trust and discriminatory beliefs during the COVID‐19 pandemic: Longitudinal evidence from the United Kingdom. British Journal of Social Psychology, 62(4), pp.1897–1924. doi:https://doi.org/10.1111/bjso.12662. <br/>
 ‌Patrona, M. (2024). ‘Softballs’ for ‘Hardballs’: The congenial political interview on right-wing partisan TV news outlets. Journalism. doi:https://doi.org/10.1177/14648849241228096. <br/>
 </details>
+
 ## Extra-cirricular Journalism
 
 ### Forge Press (Science & Tech Editor Role)
+
+Alongside my studies, I am part of my university's newspaper as one of two science & tech editors, as part of this, I edit, source and create articles once per month.
+
+#### Original Articles
+
+Article on the discovery of a new mersenne prime:
+
+<details> 
+  <summary> <b> Mersenne Article </b> </summary>
+New prime discovery blows previous records out of the water. <br/>
+<br/>
+
+Recently, both the largest Mersenne prime and the largest prime in general was found, this is a very important discovery in the areas of mathematics and computational power. This was the 52nd Mersenne prime ever found and between the previous discovery and this one, it took mathematicians 7 years using specialist software to do so. <br/>
+<br/>
+
+A Mersenne prime is a prime number of the form 2p - 1 where p is a pre-existing prime number. To start with, these numbers are small, the first three being 3, 7 and 31 but very quickly ramps up, with the 10th Mersenne already reaching 27 digits. In 1995, in aide of finding these huge numbers, the Great Internet Mersenne Prime Search (GIMPS) was set up to corroborate efforts by several mathematicians as well as releasing free software for the sole purpose of finding Mersennes. <br/>
+<br/>
+
+Luke Durant, an ex-NVIDIA employee turned researcher was the person responsible for the discovery, he did this by creating a “cloud supercomputer” of GPUs all simultaneously using the GIMPS software. This resulted in the discovery of a number 16 million digits larger than the 51st Mersenne prime, a 41 million digit number I can’t even begin to type out. But in the form mentioned earlier, this is written as 2136,279,841 - 1. <br/>
+<br/>
+
+New prime numbers are a very relevant concept with applications within mathematics and computer science. After the searching process, these numbers need to be checked since the  calculations have many stages where it can go wrong, for example, 274,207,281 - 1 took roughly 34 quadrillion steps. Checking these primes helps consolidate otherwise hard to verify algorithms. This algorithm checking helps train GPUs to become more efficient. <br/>
+<br/>
+
+In mathematics, and specifically number theory, prime numbers are and have always been an area of great interest. Mersenne primes have a particular link to perfect numbers, these are numbers where the number itself is equal to the sum of all its divisors. This tell us that if 2p - 1 is a prime, then 2p - 1(2p - 1) is a perfect number. <br/>
+<br/>
+
+Luke received $3000 for this discovery, but is using this to donate towards the Alabama School of Math and Science, so clearly did it out of passion for the field. <br/>
+<br/>
+
+</details>
+
+#### Edited Pages
 
 ### Other Journalism
 
