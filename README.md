@@ -65,14 +65,14 @@ I chose this research area since I have previously been taught a lot about the m
   <br/>
 Frackowiak et. al. found that liberal views reduced discriminatory views against immigrants as well as more trust in the scientists, whereas the opposite was true for the conservative group (see Frackowiak et al. 2023). One example of this type of media was ex-American President Trump framing COVID-19 as the “Chinese virus” (see Bolsen et al. 2020). Combatting this type of misinformation may be an impossible task in the current political climate, but figuring out how to communicate efficiently should bring more clarity on how to signal the truth. <br/>
   <br/>
-This has been incredibly relevant over the past few years globally with events such as COVID-19 and the health ministry’s approach to dealing with it on top of the prime minister holding parties during lockdown, all whilst he was lying to the country and parliament (see Bowman et al. 2023). <br/?>
+This has been incredibly relevant over the past few years globally with events such as COVID-19 and the health ministry’s approach to dealing with it on top of the prime minister holding parties during lockdown, all whilst he was lying to the country and parliament (see Bowman et al. 2023). <br/>
   <br/>
 The main research questions that I want to understand more are as follows:
-  <list>
-    <item>How much would policymakers/politicians know about how to deal with another pandemic?</item>
-    <item>How big is the knowledge gap between professionals and the general public? How can it be closed?</item>
-    <item>What are the best methods of communicating around big health events like COVID?</item>
-  </list>
+
+  - How much would policymakers/politicians know about how to deal with another pandemic?
+  - How big is the knowledge gap between professionals and the general public? How can it be closed?
+  - What are the best methods of communicating around big health events like COVID?
+
  
 During my dissertation, I will undertake my own primary research. I will create questionnaires and surveys for both educated and uneducated groups about the spread of diseases to highlight the main differences within knowledge levels and the forms of media they would find most helpful. I aim to talk to the professionals from my undergraduate school who specialise in the field and ask what their opinions on the education of mathematical biology and how they think this information should be spread are. I also aim to interview local politicians from a range of parties to see what they know and how much they are willing to learn and use in their campaigns. <br/>
 <br/>
