@@ -1,5 +1,5 @@
-title: "My Site Title"
-description: "A description of my site."
+title: "My Website"
+description: "A description of my site"
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
@@ -7,8 +7,15 @@ plugins:
   - jekyll-seo-tag
 
 # Optional: Customize navigation links
-nav:
+nav_links:
   - title: "Home"
     url: /
   - title: "About"
     url: /about/
+
+# Optional: Social links
+author:
+  name: Your Name
+  social:
+    twitter: your_twitter_handle
+    github: your_github_username
