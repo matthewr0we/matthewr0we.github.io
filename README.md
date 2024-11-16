@@ -58,7 +58,7 @@ Fishing has been addressed, but measures are useless if our oceans continue to h
 This is the first in a series of two journal entries (non-weighted) to help us build up to creating a research proposal
 
 <details> 
-  <summary> <b> View article here </b> </summary>
+  <summary> <b> View journal here </b> </summary>
 Within my science communication degree, my research interests are centred around delving into the current gap of information both in the general public and people of power regarding the spread of diseases, epidemics, and pandemics, with a focus on modern health events. I am interested in firstly finding the extent of this gap of knowledge but also figuring out how best to tackle this inequality using research and knowledge from professionals in the field. <br/>
   <br/>
 I chose this research area since I have previously been taught a lot about the mathematics and systems behind how diseases spread and how to combat them in an efficient way. This was my favourite section of my bachelors, as I felt like I had truly understood why certain government measures are put in place; however, it took going to university to find out. A lot of the public and influential individuals, such as those in parliament, may be less informed, especially depending on the media they consume. For example, if someone consumes GB news, they are more likely to hold right-wing values (see Patrona. 2024), and this can have a knock-on effect on what they believe the causes and methods to deal with them are. <br/>
