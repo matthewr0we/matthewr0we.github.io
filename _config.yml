@@ -6,16 +6,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Optional: Customize navigation links
-nav_links:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
 
-# Optional: Social links
-author:
-  name: Your Name
-  social:
-    twitter: your_twitter_handle
-    github: your_github_username
+
