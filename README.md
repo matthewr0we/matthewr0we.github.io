@@ -96,7 +96,7 @@ Frackowiak, M., Pascale Sophie Russell, Rusconi, P., Fasoli, F. and Smadar Cohen
 
 Alongside my studies, I am part of my university's newspaper as one of two science & tech editors, as part of this, I edit, source and create articles once per month.
 
-#### Original Articles
+#### <b>Original Articles</b>
 
 Article on the discovery of a new mersenne prime:
 
@@ -124,8 +124,9 @@ Luke received $3000 for this discovery, but is using this to donate towards the 
 <br/>
 
 </details>
+<br/>
 
-#### Edited Pages
+#### <b>Edited Pages</b>
 
 ### Other Journalism
 
