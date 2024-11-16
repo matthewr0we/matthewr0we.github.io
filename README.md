@@ -79,7 +79,8 @@ During my dissertation, I will undertake my own primary research. I will create 
 
 Outside of my own primary research, I will be mainly using academic journals, both on the scientific side of the problem and also the commentaries made on past events and actions. <br/>
 <br/>
-Bibliography
+<b>Bibliography</b> </br>
+<br/>
 
 Bolsen, T., Palm, R. and Kingsland, J.T. (2020). Framing the Origins of COVID-19. Science Communication, [online] 42(5). doi:https://doi.org/10.1177/1075547020953603. <br/>
 
