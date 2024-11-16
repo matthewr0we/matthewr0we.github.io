@@ -53,6 +53,41 @@ Fishing has been addressed, but measures are useless if our oceans continue to h
 
 ### Research Methods
 
+<b> Research methods journal 1 - Research topics & questions </b> <br/>
+
+This is the first in a series of two journal entries (non-weighted) to help us build up to creating a research proposal
+
+<details> 
+  <summary> <b> View article here </b> </summary>
+Within my science communication degree, my research interests are centred around delving into the current gap of information both in the general public and people of power regarding the spread of diseases, epidemics, and pandemics, with a focus on modern health events. I am interested in firstly finding the extent of this gap of knowledge but also figuring out how best to tackle this inequality using research and knowledge from professionals in the field. <br/>
+  <br/>
+I chose this research area since I have previously been taught a lot about the mathematics and systems behind how diseases spread and how to combat them in an efficient way. This was my favourite section of my bachelors, as I felt like I had truly understood why certain government measures are put in place; however, it took going to university to find out. A lot of the public and influential individuals, such as those in parliament, may be less informed, especially depending on the media they consume. For example, if someone consumes GB news, they are more likely to hold right-wing values (see Patrona. 2024), and this can have a knock-on effect on what they believe the causes and methods to deal with them are. <br/>
+  <br/>
+Frackowiak et. al. found that liberal views reduced discriminatory views against immigrants as well as more trust in the scientists, whereas the opposite was true for the conservative group (see Frackowiak et al. 2023). One example of this type of media was ex-American President Trump framing COVID-19 as the “Chinese virus” (see Bolsen et al. 2020). Combatting this type of misinformation may be an impossible task in the current political climate, but figuring out how to communicate efficiently should bring more clarity on how to signal the truth. <br/>
+  <br/>
+This has been incredibly relevant over the past few years globally with events such as COVID-19 and the health ministry’s approach to dealing with it on top of the prime minister holding parties during lockdown, all whilst he was lying to the country and parliament (see Bowman et al. 2023). <br/?>
+  <br/>
+The main research questions that I want to understand more are as follows:
+  <list>
+    <item>How much would policymakers/politicians know about how to deal with another pandemic?</item>
+    <item>How big is the knowledge gap between professionals and the general public? How can it be closed?</item>
+    <item>What are the best methods of communicating around big health events like COVID?</item>
+  </list>
+ 
+During my dissertation, I will undertake my own primary research. I will create questionnaires and surveys for both educated and uneducated groups about the spread of diseases to highlight the main differences within knowledge levels and the forms of media they would find most helpful. I aim to talk to the professionals from my undergraduate school who specialise in the field and ask what their opinions on the education of mathematical biology and how they think this information should be spread are. I also aim to interview local politicians from a range of parties to see what they know and how much they are willing to learn and use in their campaigns. <br/>
+<br/>
+
+Outside of my own primary research, I will be mainly using academic journals, both on the scientific side of the problem and also the commentaries made on past events and actions. <br/>
+<br/>
+Bibliography
+
+Bolsen, T., Palm, R. and Kingsland, J.T. (2020). Framing the Origins of COVID-19. Science Communication, [online] 42(5). doi:https://doi.org/10.1177/1075547020953603. <br/>
+
+Bowman, D.C. and Roe-Crines, A.S. (2023). The End of the Rhetorical Line? The ‘Partygate’ Investigation into former UK Prime Minister, Boris Johnson. The Political Quarterly, 94(3). doi:https://doi.org/10.1111/1467-923x.13296. <br/>
+
+Frackowiak, M., Pascale Sophie Russell, Rusconi, P., Fasoli, F. and Smadar Cohen‐Chen (2023). Political orientation, trust and discriminatory beliefs during the COVID‐19 pandemic: Longitudinal evidence from the United Kingdom. British Journal of Social Psychology, 62(4), pp.1897–1924. doi:https://doi.org/10.1111/bjso.12662. <br/>
+‌Patrona, M. (2024). ‘Softballs’ for ‘Hardballs’: The congenial political interview on right-wing partisan TV news outlets. Journalism. doi:https://doi.org/10.1177/14648849241228096. <br/>
+</details>
 ## Extra-cirricular Journalism
 
 ### Forge Press (Science & Tech Editor Role)
