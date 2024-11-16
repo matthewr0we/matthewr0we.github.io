@@ -1,3 +1,14 @@
-remote_theme: mmistakes/minimal-mistakes@4.26.2
+title: "My Site Title"
+description: "A description of my site."
+remote_theme: mmistakes/minimal-mistakes
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Optional: Customize navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
