@@ -11,9 +11,8 @@ This is a portfolio, mainly for my MSc Science Communications work, but also for
 
 My chosen subject for this piece was recent research carried out on krill which found the extent of the role they play in trapping carbon and subsequently maintaining the climate. <br/>
 
-<b> The article: </b> <br/>
-
 <details> 
+  <summary> <b> View article here </b> </summary>
 Tiny crustaceans found in the Antarctic are vital for our climate, but face fatal risks, biologists from Imperial have found.
 
 Euphausiacea, or as they are informally known, krill, are crustaceans that play an important role in biodiversity and population stability. But they are so much more; research carried out by Imperial has found Antarctic krill also to be responsible for a surprising amount of carbon locking; however, climate change and fishing are having a direct impact on the population.
