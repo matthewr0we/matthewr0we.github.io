@@ -43,8 +43,7 @@ Measures must be taken to conserve the earth's krill and, as a result, our atmos
 Research found that at least 30% of global oceans must be protected from fishing practices to maintain a sustainable krill population. One example of this in the Southern Ocean is Area 48, where an annual krill catching limit of 620,000 metric tonnes per year was set. This is due to numbers reaching a 450,781 metric tonne high in 2020. <br/>
 <br/>
  
-Fishing has been addressed, but measures are useless if our oceans continue to heat up. <br/>
-<br/>
+Fishing has been addressed, but measures are useless if our oceans continue to heat up. 
 
 </details>
 
