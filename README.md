@@ -133,8 +133,8 @@ Luke received $3000 for this discovery, but is using this to donate towards the 
 Most of my other journalism has been on my friends music site, <a href="url"> https://undertonereviews.wordpress.com/ </a>. One example of my work on there is an article on the current state of indie music.
 
 <details> 
-  <summary> <b> View journal here </b> </summary>
-### Britain’s new age indie scene – a new sound is on the rise and you don’t want to miss out <br/>
+  <summary> <b> Music Article </b> </summary>
+<b> Britain’s new age indie scene – a new sound is on the rise and you don’t want to miss out </b><br/>
   <br/>
 A new wave of indie music has been brewing and the potential isn’t barred by any limits. Indie music has been huge in the UK for as long as I remember, but new factors are changing the sound of the new up-and-coming talent into something completely different. By Matthew Rowe. <br/>
 <br/>
