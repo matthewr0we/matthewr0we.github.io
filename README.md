@@ -131,7 +131,7 @@ As part of my role I am respinsible for editing a page of the paper per issue, t
 
 <details>
   <summary> <b> October 2024 Issue </b> </summary>
-  [embed]https://github.com/matthewr0we/matthewr0we.github.io/blob/main/forge%20bonfire%2015.pdf[/embed]
+  [embed]https://github.com/matthewr0we/matthewr0we.github.io/blob/main/forge%20bonfire%2015.pdf [/embed]
 </details>
 
 ### Other Journalism
