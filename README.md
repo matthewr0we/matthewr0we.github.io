@@ -130,6 +130,62 @@ Luke received $3000 for this discovery, but is using this to donate towards the 
 
 ### Other Journalism
 
+Most of my other journalism has been on my friends music site, <a href="url"> https://undertonereviews.wordpress.com/ </a>. One example of my work on there is an article on the current state of indie music.
+
+<details> 
+  <summary> <b> View journal here </b> </summary>
+### Britain’s new age indie scene – a new sound is on the rise and you don’t want to miss out <br/>
+  <br/>
+A new wave of indie music has been brewing and the potential isn’t barred by any limits. Indie music has been huge in the UK for as long as I remember, but new factors are changing the sound of the new up-and-coming talent into something completely different. By Matthew Rowe. <br/>
+<br/>
+
+Indie music has often been praised as the voice of the younger generation, and you will often find that the youth will associate themselves with the sound of the ever-recognisable tunes of the Arctic Monkeys, the Strokes, and Pulp, just to name a few. These are big household names who have helped develop and create their own indie sound, one that will certainly never be forgotten. However, more recently, there has been a huge burst of creativity within the indie scene, with a lot of new talent alongside it. These new artists are helping preserve the meaning of indie while putting their own twist on it.<br/>
+<br/>
+
+As a genre, indie music has a massive cultural significance that can’t be ignored. For one, the university experience I’ve enjoyed wouldn’t have been anywhere as good without it. You can’t go to a party without soaking up indie music and its culture. My personal favourite venue, The Leadmill, is host to many indie nights out and so many great gigs; it is truly a hub of musical exploration and a place to have a damn good time (bless the £1.50 doubles). <br/>
+<br/>
+
+The sound may be developing but some things in indie don’t change. Themes in indie songs still follow consistent themes and messages. If I had a pound for every reference to how bad the Tories are in an indie song, I’d be deemed a Conservative voter. But this is what it’s all about: the voice of the youth expressing their opinions on a vast amount of issues both inside the UK and globally, one example being Declan McKenna‘s British Bombs, a modern-day cult classic that is recognisable instantaneously. The standard themes are being followed but some have rightfully been pushed further than others. Ideas of identity, self-worth and female empowerment have been made so much more vocal, creating an insight into issues recently pushed into the public’s eye, often to the distaste of the older generation. Two songs that I think show this beautifully are Lime Garden’s I Want To Be You and CMAT’s Whatever’s Inconvenient. The sounds of the greats don’t lose their value and are often replicated by bands wanting to reach the great hits their predecessors had. This is shown by Sheffield-based band The Reytons, who have adapted local legends and the Arctic Monkeys sound relatively successfully. If you are ever on a night out, it’s unexplainable, but the atmosphere will become electric whenever an indie banger comes on. <br/>
+<br/>
+
+These developments can’t purely be put down to indie music; the music scene as a whole has shifted in recent years. Huge developments in UK jazz, post-punk and rap have all had their impact on the genre, elevating it to a whole new level. This allows a level of creativity and it shows. Post-punk has had such an amazing impact; artists such as BC,NR have had such a huge impact, and other bands in the crank wave subgenre are interchangeable with indie. Hard-hitting indie bands Do Nothing, Dry Cleaning, and Courting are great examples of the development of indie in the post-punk direction. This isn’t the only way the scene has developed; spoken word has snuck its way in almost seamlessly. Leeds band Yard Act are a great example of this, often leaving the preconceptions of how an indie song should be laid out, allowing them to both create standard songs with funky hooks but also much more solemn monologues. This sound is also shown by the much more popular Wet Leg. <br/>
+<br/>
+
+Outside of the UK, very unexpected artists have been entering the domain. Rapper Lil Yachty gained a reputation for creating rap songs such as iSpy, but last year he took a huge risk by entering alternative indie with the very influential album Let’s Start Here. This was a complete change in vibe for the American artist but it paid off. The song Drive Me Crazy! is a perfect example of this new experimental feel he was going for, creating a perfect example of how the genre of rap has been infused into indie. The concept has been around for a while. Years ago, Arctic Monkeys collaborated with British icon Dizzie Rascal to create Temptation Greets You Like Your Naughty Friend. Bloc Party is known for mixing the two consistently, but it’s incredibly promising to see otherwise unexpected artists entering the subgenre. <br/>
+<br/>
+
+Here are some songs by the insane new talent that you need to hear:<br/>
+<br/>
+ <ul>
+<li>I Want To Be You – Lime Garden (Single)</li>
+ </ul> <br/>
+This song is a perfect embodiment of how the standards held by those famous on TV lead to innate jealousy and a desire to change their body and lifestyle, highlighting the huge issues of being surrounded by these fake idols. This is consistent in Lime Garden’s music, a girl band who seamlessly expresses modern issues in their songs <br/>
+<br/>
+
+ <ul>
+<li>Nearly Daffodils – English Teacher (Nearly Daffodils)</li>
+ </ul> <br/>
+
+Heavily post-punk inspired band English Teacher often takes a heavier, rock feel to indie, especially in this song sounding akin to a hybrid of Fontaines D.C., Dry Cleaning, and Wet Leg. The singer, ironically named Lily Fontaine, bridges the gap between a harsh, brutal instrumental and a much more melodic and soothing voice, despite still being able to shout out to drive home the whole point: “You can lead water to the daffodils, but you can’t make them drink.” Fontaine’s range is shown in their discography, with much more melancholy compositions like Mastermind Specialism and a poetic start to Yorkshire Tapas.<br/>
+<br/>
+
+ <ul>
+<li>R Entertainment – Sports Team (Gulp!)</li>
+ </ul> <br/>
+
+It wouldn’t be a list of indie recommendations if I didn’t mention Cambridge-formed band Sports Team, who gained notoriety in 2020 with their debut album Deep Down Happy and many of my favourite indie rock songs, such as Stations of the Cross. They haven’t slowed down since, going on several tours or releasing a second album, Gulp!. This album hasn’t gained as much traction as their debut, but in my opinion it has songs of the same or even better quality. R Entertainment is my pick from this album, a commentary on how desensitised the general public has become to otherwise shocking content and how war, homicide, and car crashes have become almost trivial to us. “They’re mowing us down, for R entertainment.” The slang just emphasises how much of an issue it is in the UK.<br/>
+<br/>
+
+ <ul>
+<li>I Wanna Be a Cowboy, Baby! – CMAT (If My Wife New I’d Be Dead)</li>
+ </ul><br/>
+
+CMAT has one of the most impressive voices I have ever heard. Hailing from Ireland, she doesn’t hold back with her loud, passion-filled choruses. I had the pleasure of seeing her live recently, and I was amazed her voice hadn’t died by the end of a nearly three hour action packed and downright fun set. Her song I Wanna Be a Cowboy, Baby! covers so many issues while being an incredibly catchy banger. Several people in the crowd donned cowboy hats for the gig. Issues of self-identity and empowerment are covered here with lines such as “But I break down every time I’m on the scales” and “My style icon is the wolverine / Between each finger lies the key / To getting home without a buckaroo.” These lines emphasise issues of body standards as well as how society and men will often go out with the pure intention of going home with someone and view women as objects, the keys referencing needing self-defense on a day-to-day basis. Her discography covers so many deep issues while maintaining high quality and listenability.<br/>
+<br/>
+
+The British music scene and indie as a whole are in great hands; these new talents have already achieved brilliant things, from widely acclaimed albums to supporting huge global talents to having their own national and international tours. I can’t wait to see what they are capable of and how other genres will continue to influence both new and established artists. The Arctic Monkeys delving into more lounge and art rock is a great example of this. To conclude, please give the new indie scene a listen, specifically the songs mentioned above. <br/>
+<br/>
+ </details>
 ## Photography, Audio and Filmography
 
 ### Photography
