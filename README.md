@@ -127,12 +127,9 @@ Luke received $3000 for this discovery, but is using this to donate towards the 
 
 #### <b>Edited Pages</b>
 
-As part of my role I am respinsible for editing a page of the paper per issue, these will be below:
+As part of my role I am responsible for editing a page of the paper per issue, these will be below:
 
-<details>
-  <summary> <b> October 2024 Issue </b> </summary>
-  <object data="forge bonfire 15.pdf" width="1000" height="1000" type='application/pdf'/>
-</details>
+
 
 ### Other Journalism
 
