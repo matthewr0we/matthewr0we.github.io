@@ -180,7 +180,10 @@ As O’Farrell stated, “6G will be an important technology in people’s lives
 As part of my role I am responsible for editing a page of the paper per issue, these will all be in one pdf below, in monthly order (starting with November):<br/>
 <br/>
 
-<iframe src="forge_merge.pdf", width = 800, height = 500></iframe>
+<iframe
+  width = "800"
+  height = "500"
+  src="forge_merge.pdf"></iframe>
 
 ### Other Journalism
 
