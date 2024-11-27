@@ -1,5 +1,5 @@
 
-This is a portfolio, mainly for my MSc Science Communications work, but also for my extracirricular journalism and relevant BSc Mathematics work.
+This is a portfolio, mainly for MSc Science Communications work that I am proud of, but also for my extracirricular journalism and relevant BSc Mathematics work.
 
 ## MSc Science Communication
 
@@ -7,7 +7,7 @@ This is a portfolio, mainly for my MSc Science Communications work, but also for
 
 ### Topical Science
 
-<b> Assignment 1 - Short news story (<500 words) </b> <br/>
+<b>Short news story (<500 words) </b> <br/>
 
 My chosen subject for this piece was recent research carried out on krill which found the extent of the role they play in trapping carbon and subsequently maintaining the climate. <br/>
 
@@ -53,7 +53,7 @@ Fishing has been addressed, but measures are useless if our oceans continue to h
 
 ### Research Methods
 
-<b> Research methods journal 1 - Research topics & questions </b> <br/>
+<b> Research methods journal - Research topics & questions </b> <br/>
 
 This is the first in a series of two journal entries (non-weighted) to help us build up to creating a research proposal
 
@@ -124,6 +124,56 @@ Luke received $3000 for this discovery, but is using this to donate towards the 
 <br/>
 
 </details>
+
+Article on what my university's researchers are up to:
+
+<details> 
+  <summary> <b> What are our researchers up to? </b> </summary>
+What are our researchers up to? A university-wide view at Sheffield's recent work <br/>
+<br/>
+
+All over university, the lecturers we know and see every week, are all highly accomplished academics, with a plethora of research topics and papers between them. In recent months there have been some incredible advancements spearheaded by both the researchers at this uni and their research teams. These range from conservation efforts within turtle populations to developments in 6G networks. This article will explore several of these.<br/>
+<br/>
+
+<b>Biologists find new information about turtle fertility.</b> <br/>
+<br/>
+
+In first-of-its-kind research, scientists from Sheffield University have developed techniques to help understand the fertility rates within turtles and tortoises. To do this, the team, led by PhD student Alessia Lavigne, used microscopic techniques, mainly developed for bird eggs to freeze and subsequently analyse their states.<br/>
+<br/>
+
+These experiments led to the discovery that 75% of undeveloped eggs that had been viewed were fertilised, however contained embryos that died at an early stage. This was mainly true for wild sea turtles, whereas with giant turtles, it was found that their problems lie in the fertilisation rate.<br/>
+<br/>
+
+This research has helped conservation teams differ their focus for various species, for example, protecting wild turtle's embryonic growth via looking after nests.<br/>
+<br/>
+
+<b>Bioscientists uncover the MRSA mechanism responsible for its antibiotic resistance.</b><br/>
+<br/>
+
+MRSA is one of the most prolific bacteria and is typically harmless outside the body. But when it gets in, it causes more than 120,000 deaths per year. This bacteria is infamous for its antibiotic resistance, being resistant to the entire group of beta-lactams.<br/>
+<br/>
+
+Previous work found that this was due to a new cell wall enzyme tailored to survive antibiotic exposure, but this isn’t everything. The multidisciplinary team of Bioscience’s Dr Simon Foster and Physics’ Dr Jamie Hobbs found that MRSA has evolved to have a division mechanism, allowing the bacteria to grow, split, and spread.<br/>
+<br/>
+
+This research has huge potential to help us develop more effective antibiotics and hopefully lower the risk of MRSA.<br/>
+<br/>
+
+<b>Engineering professor set to drive the push for 6G networks.</b><br/>
+<br/>
+
+After being awarded a prestigious research chair from the Royal Academy of Engineering, Professor Timothy O’Farrell FREng will work with Keysight Technologies with the goal of developing new waveforms for transmitting signals.<br/>
+<br/>
+
+Instead of the single waveforms used in earlier networks including 4G and 5G, 6G presents the problem of finding a method using multiple waveforms simultaneously since single waveforms aren’t an option. This is especially promising after the university opened the UKs first 6G radio systems facility.<br/>
+<br/>
+
+As O’Farrell stated, “6G will be an important technology in people’s lives beyond 2030.”<br/>
+<br/>
+
+
+</details>
+
 
 #### <b>Edited Pages</b>
 
